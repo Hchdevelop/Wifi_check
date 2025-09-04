@@ -1,0 +1,1 @@
+call python check_wifi.py
